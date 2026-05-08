@@ -1,0 +1,74 @@
+# Solved Problems
+
+- Two Sum
+- Running Sum of 1D Array
+- Find Pivot Index
+- Maximum Subarray
+- Valid Anagram
+- Intersection of Two Arrays
+- Water and Jug Problem
+- Range Sum Query Immutable
+- Subarray Sum Equals K
+- Two Sum II - Input Array Is Sorted
+- Valid Palindrome
+- Container With Most Water
+- Sort Colors
+- Maximum Average Subarray I
+- Longest Substring Without Repeating Characters
+- Permutation in String
+- Reverse Linked List
+- Middle of the Linked List
+- Linked List Cycle
+- Linked List Cycle II
+- Palindrome Linked List
+- Merge K Sorted Lists
+- Merge Two Sorted Lists
+- Binary Search
+- Search Insert Position
+- Find Peak Element
+- First Bad Version
+- Find Minimum in Rotated Sorted Array
+- Search in Rotated Sorted Array
+- Search a 2D Matrix
+- Koko Eating Bananas
+- Capacity to Ship Packages Within D Days
+- Sqrt(x)
+- Maximum Depth of Binary Tree
+- Same Tree
+- Invert Binary Tree
+- Diameter of Binary Tree
+- Path Sum
+- Binary Tree Right Side View
+- Validate Binary Search Tree
+- Kth Smallest Element in a BST
+- Convert Sorted Array to Binary Search Tree
+- Two Sum IV - Input is a BST
+- Symmetric Tree
+- Binary Tree Inorder Traversal
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+- Binary Tree Level Order Traversal
+- Add Two Numbers
+- Best Time to Buy and Sell Stock
+- Contains Duplicate
+- Missing Number
+- Move Zeroes
+- Product of Array Except Self
+- Rotate Array
+- Merge Sorted Array
+- Leaders in Array
+- Second Largest Element
+- Union of Sorted Arrays
+- Union of Unsorted Arrays
+- Repeated DNA Sequences
+- Reverse String
+- Reverse Vowels of a String
+- Find the Index of the First Occurrence in a String
+- Remove Nth Node From End of List
+- Peak Index in Mountain Array
+- Flood Fill
+- Number of Islands
+- Course Schedule
+- Valid Parentheses
+- Generate Parentheses
+- House Robber
